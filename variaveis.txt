@@ -1,0 +1,31 @@
+VARIAVEIS
+
+
+\newpage
+\section{Variáveis}\label{sec:Variáveis}
+\begin{itemize}
+\item Tipo de Espécie:
+\newline
+1 - Ranunculus sp.
+\newline
+2 - Geranium sp.
+\newline
+3 - Crepis sp.
+\newline
+\item Cor:
+1 - Amarelo
+\newline
+2 - Roxo
+\newline
+
+\item Nº pétalas;
+\newline
+\item Comprimento das Pétalas; 
+\newline
+\item Largura das Pétalas; 
+\newline
+\item Humidade;
+\newline
+\end{itemize}
+
+
